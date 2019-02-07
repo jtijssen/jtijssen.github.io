@@ -7,20 +7,16 @@ body {
   padding: 50px;
 }
 
-.banner {
-  width: 100%;
-  background-color: black;
-}
-
 h1{
     text-align: center;
     font: "Times New Roman";
     color: white;
+    background-color: black;
 }
 
 img {
   float: right;
-  height: 200px;
+  height: 250px;
   width: 50%;
 }
 
