@@ -2,14 +2,14 @@
 /*Stylesheet for index.html*/
 
 body {
-  font: "Times New Roman";
+  font-family: TimesNewRoman;
   margin: 0;
   padding: 50px;
 }
 
 h1{
     text-align: center;
-    font: "Times New Roman";
+  font-family: TimesNewRoman;
     color: white;
     background-color: black;
 }
